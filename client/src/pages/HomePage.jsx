@@ -6,7 +6,7 @@ import { ChatContext } from '../../context/ChatContext'
 
 const HomePage = () => {
 
-  const{ selectedUser } = useContext(ChatContext);
+  const { selectedUser } = useContext(ChatContext);
 
   return (
     <div className='border w-full h-screen sm:px-[15%] sm:py-[5%]'>
