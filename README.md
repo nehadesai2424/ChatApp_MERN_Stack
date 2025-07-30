@@ -25,7 +25,7 @@ A real-time chat application built with the MERN Stack (MongoDB, Express.js, Rea
 ```
 /client              # React (Vite) frontend
 /server              # Node.js backend
-/gitignore
+/README.md
 
 ```
 
@@ -108,6 +108,13 @@ npm run dev
 
 ---
 
+
+##  Live Demo
+
+The project is live at : https://chat-app-mern-stack-five.vercel.app/
+
+
+---
 
 
 
